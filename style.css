@@ -1,0 +1,11 @@
+img{
+	width: 150px;
+	height: 150px;
+}
+.board{
+	width: 650px;
+}
+.container{
+	width: 650px;
+	margin: 0 auto;
+}
